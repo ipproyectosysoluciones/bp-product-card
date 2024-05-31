@@ -35,6 +35,12 @@
   },
   "name": "bp-product-card",
   "author": "Bladimir G. Parra B. | IP Proyectos y Soluciones",
+  "repository": {
+    "url": "https://github.com/ipproyectosysoluciones/bp-product-card",
+    "type": "git",
+    "directory": "packages/bp-product-card"
+  },
+  "homepage": "https://ipproyectosysoluciones.com.co",
   "module": "dist/bp-product-card.esm.js",
   "size-limit": [
     {
@@ -60,5 +66,16 @@
     "tsdx": "^0.14.1",
     "tslib": "^2.6.2",
     "typescript": "^5.4.5"
-  }
+  },
+  "keywords": [
+    "product",
+    "card",
+    "product-card",
+    "react",
+    "react-component",
+    "react-components",
+    "ipproyectosysoluciones",
+    "Proyectos",
+    "Soluciones"
+  ]
 }
